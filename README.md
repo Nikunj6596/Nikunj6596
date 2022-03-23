@@ -9,3 +9,4 @@ Nikunj6596/Nikunj6596 is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 --->
 - I want to learn Sql data q
+- I want to learn sql data Cleaning
